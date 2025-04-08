@@ -68,7 +68,7 @@ Read more [here](#database).
 **Step 4 (clone chat-ui):**
 
 ```bash
-git clone https://github.com/huggingface/chat-ui
+git clone https://github.com/ARAVINDAN20/Web_search_chat_bot_with_LLMs-.git
 cd chat-ui
 ```
 
